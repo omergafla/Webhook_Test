@@ -107,6 +107,7 @@ module GithubHook
     # not supplied, assume the Github repository name is the same as the project
     # identifier.
     def get_identifier
+      #ADD COMMENT FOR TRACKING PULL REQUEST HOOK
       identifier = get_project_name
       fail(
         ActiveRecord::RecordNotFound,
