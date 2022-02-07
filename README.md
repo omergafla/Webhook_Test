@@ -9,7 +9,7 @@ This plugin allows you to update your local Git repositories in Redmine when cha
 If your shared repository is on a remote machine - for example on GitHub - this unfortunately means a bit of legwork to keep the local, Redmine-accessible repository up-to-date. The common approach is to set up a cronjob that pulls in any changes with regular intervals and updates Redmine with them.
 
 That approach works perfectly fine, but is a bit heavy-handed and cumbersome. The Redmine GitHub Hook plugin allows GitHub to notify your Redmine installation when changes have been pushed to a repository, triggering an update of your local repository and Redmine data only when it is actually necessary.
-
+Liron !!!!!!!!!!!!!!
 
 ## Getting started
 
