@@ -1,5 +1,7 @@
 # Redmine GitHub Hook!
 
+HI NOYA!
+
 This plugin allows you to update your local Git repositories in Redmine when changes have been pushed to GitHub.
 
 ## Description
